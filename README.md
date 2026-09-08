@@ -1,4 +1,10 @@
 ## Hi there 👋
+<style>
+  p > img {
+    width: 10px;
+    height: 10px;
+  }
+</style>
 <p align="centre">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
