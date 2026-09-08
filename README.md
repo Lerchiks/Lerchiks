@@ -1,4 +1,4 @@
-## Hi, i'm a<strong>Frontend Developer</strong>
+## Hi, i'm a Frontend Developer
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50"/>
