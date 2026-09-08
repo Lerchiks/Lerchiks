@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149" />
+  <img src="[https://tenor.com/ru/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149](https://media1.tenor.com/m/bQCHJwgCNuMAAAAC/kitten-cat.gif)" />
 </div>
 
 
