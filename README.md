@@ -1,4 +1,6 @@
 ## Hi, i'm a Frontend Developer
+
+<div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50"/>
@@ -16,7 +18,11 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="50" height="50"/>
 </p>
+</div>
 
+<div>
+  <div class="tenor-gif-embed" data-postid="16601149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149">Kitten Cat GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
 
 
